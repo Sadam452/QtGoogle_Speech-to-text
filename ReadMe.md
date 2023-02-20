@@ -2,7 +2,7 @@
 
 This is a simple demo application built with Qt that demonstrates how to integrate Google's speech-to-text API in a desktop application.
 
-[Demo Project](demo.png)
+![Demo Project](demo.png)
 ## Getting Started
 
 To run this demo application, you will need to have a Google Cloud account and enable the Speech-to-Text API. You will also need to create a service account and download the credentials file in JSON format.
